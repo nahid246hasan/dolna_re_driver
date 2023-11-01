@@ -1,0 +1,152 @@
+{
+  "project_info": {
+    "project_number": "335615211178",
+    "firebase_url": "https://dolna-ride-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "dolna-ride",
+    "storage_bucket": "dolna-ride.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:335615211178:android:cfbcc41993af5505fa82d3",
+        "android_client_info": {
+          "package_name": "com.alphacutech.dealfees"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "335615211178-b0jcf19esnioassp89dlvcitk46ksfpe.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.alphacutech.dealfees",
+            "certificate_hash": "1b934bd571a4c0163af319f6de4c744075c53048"
+          }
+        },
+        {
+          "client_id": "335615211178-5i25nd6v8298d0splqkalfjhsidntr3j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC3z5RD948OFULDU9Eq68fr-H16UB4VjjE"
+        },
+        {
+          "current_key": "AIzaSyB9MljEzsQ90xo9KKvZ_XQmCQeXYClywjE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "335615211178-5i25nd6v8298d0splqkalfjhsidntr3j.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "335615211178-1vbn9vgtpbh7sr0slams6v58liumn05m.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.dolnaRe"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:335615211178:android:f9b5513290ebfc61fa82d3",
+        "android_client_info": {
+          "package_name": "com.example.dolna_re"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "335615211178-s5sq89skic4v5876o13oklclfun0bd94.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.dolna_re",
+            "certificate_hash": "8d54c427ab29a7819395ed34b15a03a67868a175"
+          }
+        },
+        {
+          "client_id": "335615211178-5i25nd6v8298d0splqkalfjhsidntr3j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC3z5RD948OFULDU9Eq68fr-H16UB4VjjE"
+        },
+        {
+          "current_key": "AIzaSyB9MljEzsQ90xo9KKvZ_XQmCQeXYClywjE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "335615211178-5i25nd6v8298d0splqkalfjhsidntr3j.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "335615211178-1vbn9vgtpbh7sr0slams6v58liumn05m.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.dolnaRe"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:335615211178:android:db0b8e34ae3a2cd5fa82d3",
+        "android_client_info": {
+          "package_name": "com.example.dolna_re_driver"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "335615211178-504rt1p6ju3h9p1d3og70i0vh40boij2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.dolna_re_driver",
+            "certificate_hash": "0e2c1deeb4a9fba955e69d46594c8581aa2b4698"
+          }
+        },
+        {
+          "client_id": "335615211178-5i25nd6v8298d0splqkalfjhsidntr3j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC3z5RD948OFULDU9Eq68fr-H16UB4VjjE"
+        },
+        {
+          "current_key": "AIzaSyB9MljEzsQ90xo9KKvZ_XQmCQeXYClywjE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "335615211178-5i25nd6v8298d0splqkalfjhsidntr3j.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "335615211178-1vbn9vgtpbh7sr0slams6v58liumn05m.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.dolnaRe"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
